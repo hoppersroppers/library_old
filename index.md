@@ -13,6 +13,8 @@ All the things I've written are here in one place so you can hunt them down easi
 
 ### [Competency Based Cyber Education](/competencyBasedEdu.md)
 
+### [How to Break Into Tech](/breakIntoTech.md)
+
 
 # Course Contents
 
