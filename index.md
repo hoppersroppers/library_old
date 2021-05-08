@@ -1,7 +1,8 @@
 ## Welcome to the Roppers Library
 
+Hey, I'm Dennis, the one man show behind Roppers. 
 
-All the things I've written are here in one place so you can hunt them down easier. 
+I put all the things I've written about Roppers in one place so you can hunt them down easier. 
 
 ### [Ropper's How to Hack](https://www.hoppersroppers.org/howtohack/)
 
