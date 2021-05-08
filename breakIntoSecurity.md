@@ -1,3 +1,5 @@
+# Roppers How to Break Into Security
+
 While there are less resources on breaking into security than there are on [breaking into the tech field](/breakIntoTech.md), the fundamental problem remains the same: If a new student is pointed at a list of resources and told they should be able to teach themselves, no benefit has been provided to anyone. 
 
 There are arguments in defense of finding the answers yourself, and that is why Roppers does everything we can not hold your hand the entire time. However, we  point at exactly where your next step in the journey should go and give you the best resources possible.
