@@ -1,3 +1,5 @@
+# The Ropper's Guide to Joining a CTF Team
+
 These are a loose smattering of thoughts on how to find a CTF team to play with. This is completely skill independent, whether you have no experience or are very confident on the keyboard, finding a new group of people to play with is hard. 
 
 First, are you in school? If you are search to check if your school already has a team (nerds are notoriously bad at advertising), email them, learn their practice schedule, and then show up. If it seems like you don’t have a team, [check out my post on starting a CTF team](/startCTFteam.md). 
