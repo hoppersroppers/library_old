@@ -40,6 +40,9 @@ The full contents (though unupdated) of Ropper's CTF Fundamentals course.
 ### [How to Train Your CTF Team](/trainCTFteam.md)
 A guide on how to use Roppers to train your CTF team.
 
+### [Beginner's Guide to CTFs](/learnCTF.md)
+A guide to getting started playing in CTFs. 
+
 ### Blog Posts
 
 None
