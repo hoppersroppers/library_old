@@ -1,4 +1,6 @@
-If you are a high school or college student and are looking to improve your skills far beyond what you will learn in school, as well as being social and finding other like-minded friends, then Capture the Flags (CTF) are for you. 
+# The Roppers Guide to Starting a CTF Team 
+
+If you are a college, high school, or middle school student and are looking to improve your skills far beyond what you will learn in school, as well as being social and finding other like-minded friends, then Capture the Flags (CTF) are for you. 
 
 Capture the Flags bring people together who want to learn and compete in a variety of technical challenges, building friendship and expertise that can’t be found anywhere else. What makes CTFs special is their highly-technical, time-constrained, team-based nature. A good CTF team must practice together to learn the advanced skills required to be successful. Challenges force your team to show off their knowledge of scripting, forensics, cryptography, reverse engineering, web exploitation, and binary exploitation, meaning everyone must work together to learn their area of expertise and execute on competition day. Nobody can win a CTF alone, and no team can win without practice. CTF skills directly translate over to the real world, and training the mentality to face a hard problem, work through what you know, do more research, and then solve that problem through technical means is an X-factor that is not taught in a classroom. 
 
@@ -60,7 +62,10 @@ As you are starting this cycle of 1 practice a week, 1 competition a month, you 
 
 Parallel to all this, you should still be recruiting and getting your team officially registered with the school. Make sure you have left no nerd unapproached, and that everyone who might want to play knows that you exist. This is when you start worrying about names and logos and mission statements and websites and things of that nature. Don’t even think about it until after you’ve gotten a team together and have started practicing.
 
-This is all I have to say right now, but I’m sure there is more. 
+This is all I have to say right now, but I’m sure there is more. Good luck starting the team, and let me know if you have any questions.
+
+Stay stoked, 
+Dennis
 
 
 
