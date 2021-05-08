@@ -15,6 +15,8 @@ All the things I've written are here in one place so you can hunt them down easi
 
 ### [How to Break Into Tech](/breakIntoTech.md)
 
+### [How to Break Into Security](/breakIntoSecurity.md)
+
 
 # Course Contents
 
