@@ -1,12 +1,14 @@
 # The Roppers Guide to Starting a CTF Team 
 
-If you are a college, high school, or middle school student and are looking to improve your skills far beyond what you will learn in school, as well as being social and finding other like-minded friends, then Capture the Flags (CTF) are for you. 
+If you are looking to improve your skills far beyond what you will learn in school, as well as being social and finding other like-minded friends, then Capture the Flags (CTF) are for you. 
 
 Capture the Flags bring people together who want to learn and compete in a variety of technical challenges, building friendship and expertise that can’t be found anywhere else. What makes CTFs special is their highly-technical, time-constrained, team-based nature. A good CTF team must practice together to learn the advanced skills required to be successful. Challenges force your team to show off their knowledge of scripting, forensics, cryptography, reverse engineering, web exploitation, and binary exploitation, meaning everyone must work together to learn their area of expertise and execute on competition day. Nobody can win a CTF alone, and no team can win without practice. CTF skills directly translate over to the real world, and training the mentality to face a hard problem, work through what you know, do more research, and then solve that problem through technical means is an X-factor that is not taught in a classroom. 
 
-Search to check if your school already has a team (nerds are bad at advertising), email them, learn their practice schedule, and then show up. Read this [guide on joining a CTF team](/joinCTFteam.md) for more information. 
+Most of this guide is written for high school or college students but if you are not a student that doesn't mean you can't use this as a template to start a team in the real world, it just might be slightly more difficult to find teammates. Luckily we have the internet so I have faith in you. 
 
-If there isn’t a team, the good news is that you can now be the person who sets the team up for future success, not to mention it looks great on a resume. It is a long road ahead, but by taking the right steps now you can go from 0 to 1 in a very short period of time. 
+First, before you start your own team, really search to check if your school already has a team (nerds are bad at advertising), email them, learn their practice schedule, and then show up. Read this [guide on joining a CTF team](/joinCTFteam.md) for more information. If there is a team already but you are making a team out of spite to beat them in a Karate Kid style showdown in cyberspace, you should probably reflect a bit on if that is nessecary, but if so you have my full support.
+
+If there isn’t a team, the good news is that you can now be the person who sets the team up for future success, not to mention it looks great on a resume. On the downside, it is a long road ahead, but by taking the right steps now you can go from 0 to 1 in a very short period of time. 
 
 First things first, nobody is expecting you to be CTF expert as you are just starting out. Don’t let your lack of knowledge about CTF, or even your lack of technical experience convince you to not go forward with this. Remember, the most important person on a team isn’t the person who scores the most points, but the person who gets everyone together. That goes for most of life. You can be a freshman or a senior, seniority doesn’t matter, you just need to have a passion to make this happen, and an understanding that figuring out a lot of the details can happen later if you get the ball rolling. If you are saying “hey, no one will listen to me, I don’t know anything about this”, ignore that voice in your head, you have the entire Roppers organization in your corner and we will help you out. (No seriously, email me at d.m.devey@gmail.com and I'll be an adult in the email thread/phone call who tells the other adults to listen to you. Shouldn't be necessary, but sometimes that's how the world works.) 
 
@@ -16,17 +18,15 @@ Make sure you are talking to potential members to see what they want out of the 
 
 Once you have a list of interested students, it’s time for your first gathering. Send an email to your newly created mailing list for folks to get together to discuss what they think the team should look like and your general plan to get trained and start competing. Make the email clearly state the purpose of the meeting and the questions you are trying to answer, and request anyone who won’t be able to come to reply to you with feedback. 
 
-Questions:
-Time/Place of Future Gatherings
-Frequency of meetings/competitions
-	
-Vision for Team: 
-	
-General Organization of Team:
-	President, VP(handles admin things), Training Officer, Public Affairs (/recruiting)
-	You do not need a Treasurer or dues(for now)
-Way Ahead: 
-	Registering with school, find faculty advisor, do you need Dennis to pretend to be an adult, etc
+* Questions:
+   * Time/Place of Future Gatherings
+   * Frequency of meetings/competitions
+* Vision for Team: 
+* General Organization of Team:
+   * President, VP(handles admin things), Training Officer, Public Affairs (/recruiting)
+   * You do not need a Treasurer or dues(for now)
+* Way Ahead: 
+   * Registering with school, find faculty advisor, do you need Dennis to pretend to be an adult, etc
 
 Put the gathering at a time and place people should be able to make it, don’t worry about finding the perfect time, just have the meeting. Take notes, work through your questions, and get as much feedback as you can get. People like being on the ground floor of new things, but don’t let them get too carried away. There is no need to get things too complicated yet. The only real paperwork you should set up is a Code of Conduct so you can handle situations with paperwork backup, I recommend using this one as a base. https://www.hoppersroppers.org/guidelines.html. 
 
