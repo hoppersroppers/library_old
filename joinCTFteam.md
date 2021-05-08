@@ -1,4 +1,4 @@
-# The Ropper's Guide to Joining a CTF Team
+# The Roppers Guide to Joining a CTF Team
 
 These are a loose smattering of thoughts on how to find a CTF team to play with. This is completely skill independent, whether you have no experience or are very confident on the keyboard, finding a new group of people to play with is hard. 
 
