@@ -1,8 +1,8 @@
 ## Welcome to the Roppers Library
 
-Hey, I'm Dennis, the one man show behind Roppers. 
+Hey, I'm Dennis, the dude behind Roppers. 
 
-I put all the things I've written about Roppers in one place so you can hunt them down easier. 
+I put all the things I've written about Roppers and security in one place so you can hunt them down easier. 
 
 ### [Ropper's How to Hack](https://www.hoppersroppers.org/howtohack/)
 A replacement for the famous hacker-how-to that is actually meant for beginners.
@@ -24,6 +24,9 @@ My contribution to the 1000s of papers on the subject, but I provide actionable 
 
 ### [How to Break Into Security](/breakIntoSecurity.md)
 Another contribution to the 100s of papers on the subject, and again I provide actionable ways forward to get a job.
+
+### [Things Worth Doing to Get Good at Security](/thingsWorthDoing.md)
+My game plan of things worth doing for anyone who wants to become good at security. Also how to get good at programming. Turns out the two are related. 
 
 # Course Contents
 
