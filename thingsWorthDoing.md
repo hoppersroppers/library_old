@@ -1,6 +1,6 @@
 # Roppers Things Worth Doing to Get Better:
 
-This is a rough list of things that will actually make you better and more employable if you do them, rather than doing another Udemy course or reading blogposts. 
+This is a rough list of things [that will actually make you better and more employable if you do them](/breakIntoSecurity.md), rather than doing another Udemy course, watching YouTube videos, or reading blogposts. Cough. 
 
 ## Get Good at Security: 
 
