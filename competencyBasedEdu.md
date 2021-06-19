@@ -45,3 +45,26 @@ These design principles can be examined more in depth but various important idea
 While these principles are important by themselves, various other considerations must be made before applying it to cyber education. First, the curriculum must recognize that students will enter the training pipeline at very different skill levels and that the speed each student moves through must not be dependent on other people. The curriculum must not assume any knowledge or it will risk losing otherwise capable students who will feel out of place and left behind. In addition, students may also have limited time to learn, which could mean they are available only a short period of time each day or at random hours. To address leaving these students out, the curriculum must ensure that they have remote access to material at all times, as well as instant remote access to teachers whenever possible. Secondly, it is important to identify that the single best predictor of success in the information security field is the ability for the learner to recognize a lack of knowledge and take proactive action to address that shortcoming. As a result, in order to optimize resources allocated to each student, it is recommended that there be a non-technical screening process for desire and willingness to learn before teachers offer real time support to students. If a new student is unwilling to spend the time required to learn and research their problems independently before asking for help, it is highly unlikely they will ever be successful in the field. Finally, it is essential for educators to clearly define expectations for students and teach them that there is no problem with never having seen a word or heard of a concept before. By doing this, educators can develop a positive culture of progressive learning rather than a spraying a firehose of technical jargon at increasingly dejected students. 
 
 The cyber domain is so interconnected and expansive that there is little chance of an expert knowing everything that they need to do their job on a day to day basis, much less a novice. A technical baseline is required to be successful, but for people who operate in this domain the majority of time is spent doing research and applying critical thinking to the complex interactions that occur at the boundaries between areas of knowledge. As a result, education that intends to prepare a student for success in this field must emphasize how a student should learn and the right way to approach problems, rather than what to learn and how to solve problems. Competency Based Education is designed to test mastery and develop the desired mindset through assessments, while still being accessible for the new student, which makes it the optimal framework to engineer a cyber education curriculum around.
+
+
+<div id="mc_embed_signup">
+<form action="https://gmail.us5.list-manage.com/subscribe/post?u=4d03cc5db483966f7e0fe17cc&amp;id=8d9620c4b7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<h2>Join 5000 other subscribers to get updates about our courses and our organization!</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4d03cc5db483966f7e0fe17cc_8d9620c4b7" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
