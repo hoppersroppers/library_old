@@ -19,14 +19,22 @@ A writeup on the experience of joining a CTF team for a complete beginner.
 ### [Competency Based Cyber Education](/competencyBasedEdu.md)
 A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site.
 
+# Getting Hired 
+
 ### [How to Break Into Tech](/breakIntoTech.md)
 My contribution to the 1000s of papers on the subject, but I provide actionable steps rather than platitudes and lists of resources.
 
 ### [How to Break Into Security](/breakIntoSecurity.md)
-Another contribution to the 100s of papers on the subject, and again I provide actionable ways forward to get a job.
+Another contribution to the 100s of papers on the subject, with actionable ways forward to get a job.
 
 ### [Things Worth Doing to Get Good at Security](/thingsWorthDoing.md)
-My game plan of things worth doing for anyone who wants to become good at security. Also how to get good at programming. Turns out the two are related. 
+My detailed game plan of things worth doing for anyone who wants to become good at security and get a job.
+
+### [Infosec Cert Roadmap](/infosecCertRoadmap.md)
+Don't get me wrong, I'd prefer you get good at security rather than study for certs, but hey, here we are.
+
+### [Interesting Projects](/interestingProjects.md)
+My brief list of interesting projects that are worth doing.
 
 # Course Contents
 
@@ -35,7 +43,6 @@ The full contents (though unupdated) of Ropper's flagship Computing Fundamentals
 
 ### [CTF Fundamentals](https://www.hoppersroppers.org/ctf/)
 The full contents (though unupdated) of Ropper's CTF Fundamentals course.
-
 
 
 # Coming Soon
