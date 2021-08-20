@@ -25,7 +25,8 @@ I put all the things I've written about Roppers and security in one place so you
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
+<br>
+<br>
 ### [Ropper's How to Hack](https://www.hoppersroppers.org/howtohack/)
 A replacement for the famous hacker-how-to that is actually meant for beginners.
 
