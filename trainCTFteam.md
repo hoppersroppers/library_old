@@ -26,6 +26,8 @@ To sweeten this deal where I give you a bunch of things and you in exchange teac
 
 I am looking forward to a world where the new members of each CTF team each get the best possible introduction to security and fall in love with the field. I'd love for Roppers to be part of that, so let me know what I can do to help your team.
 
+If you have any questions, comments, or thoughts on the subject, hit me at d.m.devey@gmail.com or on Slack.
+
 Stay stoked, 
 Dennis
 
