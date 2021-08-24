@@ -39,8 +39,11 @@ A guide for high school and college students who are interested in starting a CT
 ### [How to Join a CTF Team](/joinCTFteam.md)
 A writeup on the experience of joining a CTF team for a complete beginner.
 
+### [How to Train Your CTF Team With Roppers](/trainCTFteam.md)
+A writeup on the experience of joining a CTF team for a complete beginner.
+
 ### [Competency Based Cyber Education](/competencyBasedEdu.md)
-A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site.
+A whitepaper I wrote in 2017 outlining the goals of a competency based, self-paced education platform to teach cyber security. Basically outlines the entire vision and philosophy of this site, though it is a bit boring.
 
 # Getting Hired 
 
@@ -69,9 +72,6 @@ The full contents (though unupdated) of Ropper's CTF Fundamentals course.
 
 
 # Coming Soon
-
-### [How to Train Your CTF Team](/trainCTFteam.md)
-A guide on how to use Roppers to train your CTF team.
 
 ### [Beginner's Guide to CTFs](/learnCTF.md)
 A guide to getting started playing in CTFs. 
