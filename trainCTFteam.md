@@ -1,3 +1,5 @@
+# Train Your CTF Team with Roppers
+
 The school year is starting and you know what that means: Time for CTF teams to start practicing again! Whether you are in college, high school, or middle school, this is an exciting time of the year. This document is my initial effort at describing how a CTF team at any level can use Ropper’s material to train their new members. 
 
 If your school doesn’t have a CTF team, check out this document: 
