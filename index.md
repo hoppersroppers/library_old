@@ -65,7 +65,10 @@ My brief list of interesting projects that are worth doing.
 # Course Contents
 
 ### [Computing Fundamentals](https://www.hoppersroppers.org/fundamentals/)
-The full contents (though unupdated) of Ropper's flagship Computing Fundamentals course.
+The full contents of Ropper's flagship Computing Fundamentals course.
+
+### [Security Fundamentals](https://www.hoppersroppers.org/security/)
+The full contents of Ropper's Security Fundamentals course.
 
 ### [CTF Fundamentals](https://www.hoppersroppers.org/ctf/)
 The full contents (though unupdated) of Ropper's CTF Fundamentals course.
