@@ -4,11 +4,11 @@ While there are less resources on breaking into security than there are on [brea
 
 There are arguments in defense of finding the answers yourself, and that is why Roppers does everything we can not hold your hand the entire time. However, we  point at exactly where your next step in the journey should go and give you the best resources possible. If you want to skip this rant and get directly to my list of things worth doing, [click here](/thingsWorthDoing.md).
 
-Because reading things makes us feel good and we learn things, if you are going to read anything on starting a career in information security, my recommendation is you read this series of essays by Lesley Carhart. <https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3?roppers/>. (But don't read it now yet, wait until you finish this article. Please.)
+Because reading things makes us feel good and we learn things, if you are going to read anything on starting a career in information security, my recommendation is you read this [series of essays by Lesley Carhart.](https://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3?roppers). (But don't read it now yet, wait until you finish this article. Please.)
 
 For a fun fact about Roppers Academy, it originally started as a Google Doc named "what jobs can you do" and the first link was the one above. The next step from that Google Doc was deconstructing what Lesley (and all other 500 people who have written one of these articles recommends). 6 years later, I've deconstructed it into a repeatable, self-guided, and most importantly ***free*** pathway. 
 
-If you want to read a second article, here is one from Daniel Miessler. <https://danielmiessler.com/blog/build-successful-infosec-career/?roppers>
+If you want to read a second article, here is [one from Daniel Miessler.](https://danielmiessler.com/blog/build-successful-infosec-career/?roppers)
 
 Now reading those feels good, but listen to me, take everything that they say to heart, and don't look for any more articles on starting an infosec career. When one pops up in your browser, ignore it. When someone posts a list of resources, ignore it. As much fun as they are to read and bookmark, they won't improve your ability.
 
