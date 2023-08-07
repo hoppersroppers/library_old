@@ -6,7 +6,7 @@ here is a roadmap you can use to guide your certification path. Here we will foc
 
 By the end of these you should seek to have Security+ and Network+, and be starting work on any further certs for the role you want to go towards. If you want to seek out A+, it's worth doing, but not nessecary for many jobs. 
 
-### [Computing Fundamentals](https://www.roppers.org/courses/computing-fundamentals) 
+### [Computing Fundamentals](https://www.roppers.org/courses/fundamentals) 
 
 This is Ropper's flagship course and will teach you most of what you need to know to be successful, no matter what your starting experience is. Taking you from installing your first Virtual Machine and writing your first python script, to learning advanced Linux sysadmin knowledge and coding complex networking tasks, this course is zero to hero in about 50 hours. 
 
