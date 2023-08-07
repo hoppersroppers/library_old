@@ -78,7 +78,7 @@ I'm here to educate you, but I'm really here to try and help you figure it out f
 
 Does all of the sound good? Already thinking about what your future resume will look like? Good! Go start the course! 
 
- [Ropper's Computing Fundamentals Course](https://hoppersroppers.org/course.html)
+[Ropper's Computing Fundamentals Course](https://www.roppers.org/courses/fundamentals)
  
  If you have any thoughts, questions, or comments, hit me at d.m.devey@gmail.com or on the Slack.
 
