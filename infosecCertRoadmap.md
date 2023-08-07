@@ -31,8 +31,8 @@ Again, once you finish the Ropper's practical material, use [Professor Messer's 
 
 CTF's won't get you hired, but it will teach you a lot of material very quickly, as well as be a super entertaining way to do it. 
 
- * [Cryptography Fundamentals](training/crypto.md)
- * [Forensics Fundamentals(IP)](training/forensics.md)
+ * [Cryptography Fundamentals](https://www.roppers.org/courses/ctf)
+ * [Forensics Fundamentals(IP)](https://www.roppers.org/courses/ctf)
 
 This is about the level you should be at to start looking at intermediate certs like Pentest+, Certified Ethical Hacker, or Cybersecurity Analyst+.
 
